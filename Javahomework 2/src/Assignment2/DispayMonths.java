@@ -19,6 +19,7 @@ public class DispayMonths {
 		break;
 		default : System.out.println("Summer");
 		
+		System.out.println("Adding this code to git");
 				
 		}
 		System.out.println((monthString));
